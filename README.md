@@ -23,6 +23,8 @@ P -> Pause/Unpause
 
 ## Screenshots
 
-<img src="Screenshots/tetris_initScreen.png" width="48">
+<img src="Screenshots/tetris_initScreen.png" width="400">
 
-![](Screenshots/tetris_initScreen.png?raw=true)
+<img src="Screenshots/tetris_gamePlay.png" width="400">
+
+<img src="Screenshots/tetris_gameOver.png" width="400">
