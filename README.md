@@ -20,3 +20,7 @@ Z -> Rotate the piece counterclockwise
 R -> Restart
 
 P -> Pause/Unpause
+
+## Screenshots
+
+![](Screenshots/tetris_initScreen.png?raw=true)
