@@ -5,7 +5,7 @@ Coded in Python 3.6.5, pygame version 1.9.3 (May 2018)
 
 Also tested with Python 3.7.4, pygame version 1.9.6 (Sep 2019)
 
-# Game Controls
+## Game Controls
 
 Right arrow -> Move the piece to the right
 
